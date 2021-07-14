@@ -1,2 +1,2 @@
 # sql-scenarios
-Sql Scenarios done in DBMS Lab
+Sql Scenarios which we covered in our course .
